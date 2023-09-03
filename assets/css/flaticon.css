@@ -1,0 +1,56 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 05/07/2020 17:07
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff2") format("woff2"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+  font-style: normal;
+}
+
+.flaticon-chat:before { content: "\f100"; }
+.flaticon-left-arrow:before { content: "\f101"; }
+.flaticon-right-arrow:before { content: "\f102"; }
+.flaticon-rave:before { content: "\f103"; }
+.flaticon-pressure-washer:before { content: "\f104"; }
+.flaticon-money-bag:before { content: "\f105"; }
+.flaticon-pressure-washer-1:before { content: "\f106"; }
+.flaticon-home:before { content: "\f107"; }
+.flaticon-gauge:before { content: "\f108"; }
+.flaticon-draws:before { content: "\f109"; }
+.flaticon-shield:before { content: "\f10a"; }
+.flaticon-boolean-search:before { content: "\f10b"; }
+.flaticon-lawyer:before { content: "\f10c"; }
+.flaticon-plus-symbol:before { content: "\f10d"; }
+.flaticon-email:before { content: "\f10e"; }
+.flaticon-telephone:before { content: "\f10f"; }
+.flaticon-pin:before { content: "\f110"; }
+.flaticon-customer-review:before { content: "\f111"; }
+.flaticon-cash:before { content: "\f112"; }
+.flaticon-right-arrow-1:before { content: "\f113"; }
+.flaticon-paving:before { content: "\f114"; }
+.flaticon-graffiti:before { content: "\f115"; }
+.flaticon-concrete:before { content: "\f116"; }
+.flaticon-email-1:before { content: "\f117"; }
+.flaticon-contact:before { content: "\f118"; }
+.flaticon-placeholder:before { content: "\f119"; }
