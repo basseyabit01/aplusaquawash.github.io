@@ -252,7 +252,7 @@ h1,h2,h3,h4,h5,h6{
 .handle-preloader .animation-preloader .txt-loading .letters-loading:nth-child(7):before { animation-delay: 1.2s;}
 .handle-preloader .animation-preloader .txt-loading .letters-loading:nth-child(8):before { animation-delay: 1.4s;}
 .handle-preloader .loader-section {
-  background-color: #ffffff;
+  background-color: #FF0000;
   height: 100%;
   position: fixed;
   top: 0;
